@@ -1,0 +1,19 @@
+{
+  "name": "thedungeoneer",
+  "version": "0.0.1",
+  "description": "The Dungeoneer: Quest Master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapidinteractive/TheDungeoneer.git"
+  },
+  "author": "Sapid Interactive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sapidinteractive/TheDungeoneer/issues"
+  },
+  "homepage": "https://github.com/sapidinteractive/TheDungeoneer#readme"
+}
